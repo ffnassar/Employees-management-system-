@@ -1,0 +1,15 @@
+F:\visual studio\emplyesapp\emplyesapp\bin\Debug\emplyesapp.exe.config
+F:\visual studio\emplyesapp\emplyesapp\bin\Debug\emplyesapp.exe
+F:\visual studio\emplyesapp\emplyesapp\bin\Debug\emplyesapp.pdb
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.csproj.AssemblyReference.cache
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.Form1.resources
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.Properties.Resources.resources
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.csproj.GenerateResource.cache
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.csproj.CoreCompileInputs.cache
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.exe
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.pdb
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.RegisterForm.resources
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.MainForm.resources
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.AddEmplyee.resources
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.Salary.resources
+F:\visual studio\emplyesapp\emplyesapp\obj\Debug\emplyesapp.Dashboard.resources
